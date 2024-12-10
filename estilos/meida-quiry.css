@@ -23,6 +23,11 @@
         float: right;
         width: 60%;
     }
+
+    form > div.campo{
+        border-radius: 10px;
+        margin: 5px 0px;
+      }
 }
 
 @media screen and (min-width: 992px) and (max-width: 1200px){
@@ -49,6 +54,11 @@
     div#formulario > p {
         font-size: 1.2em;
    }
+
+   form > div.campo{
+    border-radius: 10px;
+    margin: 5px 0px;
+  }
 
 }
 
@@ -78,5 +88,9 @@
     div#formulario > p {
         font-size: 1.2em;
    }
+   form > div.campo{
+    border-radius: 10px;
+    margin: 5px 0px;
+  }
 
 }
