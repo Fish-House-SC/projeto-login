@@ -7,6 +7,9 @@
     body{
         background-image: linear-gradient(to top, #490104,#ac3100);
     }
+    main{
+        display: flex;
+    }
 
     section#login {
         width: 600px;
